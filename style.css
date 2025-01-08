@@ -1,8 +1,8 @@
 #door:hover {
   opacity: 0;
   fill: none;
-  background-color:yellow;
-  background-image:url("tenacity.png");
+  /* background-color:yellow;
+  background-image:url("tenacity.png"); */
 }
 
 svg {
