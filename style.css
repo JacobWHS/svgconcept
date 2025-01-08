@@ -1,3 +1,12 @@
-.cls-1 {
-    stroke: red;
-  }
+#door:hover {
+  /* opacity: 0; */
+  stroke: green;
+  stroke-width: 30px;
+  background-color:yellow;
+  background-image:url("tenacity.png");
+}
+
+svg {
+  background-color:yellow;
+  background-image:url("tenacity.png");
+}
